@@ -1,0 +1,51 @@
+transactionId,date,product,category,quantity,unitPrice,region,salesperson
+TXN001,2024-01-15,Laptop,Electronics,5,999.99,North,Alice Johnson
+TXN002,2024-01-16,Mouse,Electronics,25,29.99,South,Bob Smith
+TXN003,2024-01-17,Desk Chair,Furniture,10,199.99,East,Carol White
+TXN004,2024-01-18,Monitor,Electronics,8,349.99,West,David Brown
+TXN005,2024-01-20,Keyboard,Electronics,30,79.99,North,Alice Johnson
+TXN006,2024-01-22,Filing Cabinet,Furniture,5,149.99,South,Bob Smith
+TXN007,2024-02-01,Laptop,Electronics,3,999.99,East,Carol White
+TXN008,2024-02-05,Desk,Furniture,7,299.99,West,David Brown
+TXN009,2024-02-10,Printer,Electronics,12,199.99,North,Emma Davis
+TXN010,2024-02-15,Office Chair,Furniture,15,249.99,South,Frank Miller
+TXN011,2024-02-20,Webcam,Electronics,20,89.99,East,Alice Johnson
+TXN012,2024-02-25,Bookshelf,Furniture,8,129.99,West,Bob Smith
+TXN013,2024-03-01,Tablet,Electronics,10,449.99,North,Carol White
+TXN014,2024-03-05,Desk Lamp,Furniture,25,49.99,South,David Brown
+TXN015,2024-03-10,Headphones,Electronics,35,149.99,East,Emma Davis
+TXN016,2024-03-15,Standing Desk,Furniture,4,499.99,West,Frank Miller
+TXN017,2024-03-20,USB Hub,Electronics,50,24.99,North,Alice Johnson
+TXN018,2024-03-25,Storage Box,Furniture,40,19.99,South,Bob Smith
+TXN019,2024-04-01,Smartphone,Electronics,15,799.99,East,Carol White
+TXN020,2024-04-05,Ergonomic Chair,Furniture,6,399.99,West,David Brown
+TXN021,2024-04-10,External SSD,Electronics,22,129.99,North,Emma Davis
+TXN022,2024-04-15,Coffee Table,Furniture,3,179.99,South,Frank Miller
+TXN023,2024-04-20,Wireless Charger,Electronics,45,39.99,East,Alice Johnson
+TXN024,2024-04-25,Desk Organizer,Furniture,30,29.99,West,Bob Smith
+TXN025,2024-05-01,Smart Watch,Electronics,18,299.99,North,Carol White
+TXN026,2024-05-05,Floor Mat,Furniture,20,59.99,South,David Brown
+TXN027,2024-05-10,Bluetooth Speaker,Electronics,28,79.99,East,Emma Davis
+TXN028,2024-05-15,Wall Shelf,Furniture,12,89.99,West,Frank Miller
+TXN029,2024-05-20,Power Bank,Electronics,40,49.99,North,Alice Johnson
+TXN030,2024-05-25,Side Table,Furniture,8,119.99,South,Bob Smith
+TXN031,2024-06-01,Gaming Mouse,Electronics,25,69.99,East,Carol White
+TXN032,2024-06-05,TV Stand,Furniture,5,229.99,West,David Brown
+TXN033,2024-06-10,Mechanical Keyboard,Electronics,15,149.99,North,Emma Davis
+TXN034,2024-06-15,Coat Rack,Furniture,10,79.99,South,Frank Miller
+TXN035,2024-06-20,Monitor Stand,Electronics,20,59.99,East,Alice Johnson
+TXN036,2024-06-25,Shoe Rack,Furniture,15,49.99,West,Bob Smith
+TXN037,2024-07-01,Graphics Card,Electronics,8,599.99,North,Carol White
+TXN038,2024-07-05,Dining Table,Furniture,2,699.99,South,David Brown
+TXN039,2024-07-10,RAM Module,Electronics,30,89.99,East,Emma Davis
+TXN040,2024-07-15,Dining Chair,Furniture,12,99.99,West,Frank Miller
+TXN041,2024-07-20,Cooling Pad,Electronics,35,34.99,North,Alice Johnson
+TXN042,2024-07-25,Magazine Rack,Furniture,18,39.99,South,Bob Smith
+TXN043,2024-08-01,Portable Monitor,Electronics,10,249.99,East,Carol White
+TXN044,2024-08-05,Bed Frame,Furniture,3,449.99,West,David Brown
+TXN045,2024-08-10,Docking Station,Electronics,12,179.99,North,Emma Davis
+TXN046,2024-08-15,Nightstand,Furniture,8,129.99,South,Frank Miller
+TXN047,2024-08-20,Ethernet Switch,Electronics,25,49.99,East,Alice Johnson
+TXN048,2024-08-25,Wardrobe,Furniture,2,599.99,West,Bob Smith
+TXN049,2024-09-01,Action Camera,Electronics,14,349.99,North,Carol White
+TXN050,2024-09-05,Dresser,Furniture,4,349.99,South,David Brown
